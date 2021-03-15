@@ -908,6 +908,155 @@
             "actor": "eiza gonzález",
             "image": "https://i.postimg.cc/28JGp5WP/Eiza-Gonzalez.jpg"
           }
+        ],
+        "partys": [
+          {
+            "date": "3-1-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [12, 8, 40]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [20, 4, 12]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-2-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": []
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-3-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-4-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-5-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-6-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13, 15]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-7-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 19, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22, 47]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 22]
+              }
+            ]
+          }
         ]
       },
       {
@@ -928,6 +1077,155 @@
           {
             "actor": "izaac wang",
             "image": "https://i.postimg.cc/WbMGy72J/izaac-wang-movies.jpg"
+          }
+        ],
+        "partys": [
+          {
+            "date": "3-1-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [12, 8, 40]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [20, 4, 12]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-2-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": []
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-3-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-4-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-5-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-6-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13, 15]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-7-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 19, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22, 47]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 22]
+              }
+            ]
           }
         ]
       },
@@ -950,6 +1248,155 @@
             "actor": "camille cottin",
             "image": "https://i.postimg.cc/GtMC3DRP/phof255de20-e916-11e9-a03f-e62362151650-800x1116jpg3a2dcdea65e86021108742d1241f4d3d.jpg"
           }
+        ],
+        "partys": [
+          {
+            "date": "3-1-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [12, 8, 40]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [20, 4, 12]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-2-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": []
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-3-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-4-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-5-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-6-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13, 15]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-7-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 19, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22, 47]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 22]
+              }
+            ]
+          }
         ]
       },
       {
@@ -970,6 +1417,155 @@
           {
             "actor": "zazie beetz",
             "image": "https://i.postimg.cc/1zKYZQsw/thumb2-zazie-beetz-portrait-american-actress-photo-shoot-beautiful-woman.jpg"
+          }
+        ],
+        "partys": [
+          {
+            "date": "3-1-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [12, 8, 40]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [20, 4, 12]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-2-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": []
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-3-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-4-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-5-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-6-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 13, 15]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 25, 45, 22]
+              }
+            ]
+          },
+          {
+            "date": "3-7-2021",
+            "times": [
+              {
+                "time": "03:30 pm",
+                "occupied": [15, 18]
+              },
+              {
+                "time": "06:30 pm",
+                "occupied": [22, 21, 19, 13]
+              },
+              {
+                "time": "09:30 pm",
+                "occupied": [33, 25, 45, 22, 47]
+              },
+              {
+                "time": "12:30 am",
+                "occupied": [33, 22]
+              }
+            ]
           }
         ]
       }
