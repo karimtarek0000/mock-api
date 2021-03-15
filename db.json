@@ -887,7 +887,7 @@
       "name": "karim"
     }
   ],
-  "moviesTickets": [
+  "movies": [
     {
       "id": 1,
       "name": "i care a lot",
@@ -1565,6 +1565,624 @@
               "occupied": [33, 22]
             }
           ]
+        }
+      ]
+    }
+  ],
+  "partys": [
+    {
+      "name-movie": "i care a lot",
+      "date": "3-1-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": []
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 25, 45, 22, 30, 32, 44]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": []
+        }
+      ]
+    },
+    {
+      "name-movie": "i care a lot",
+      "date": "3-2-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": []
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": []
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 25, 45, 22]
+        }
+      ]
+    },
+    {
+      "name-movie": "i care a lot",
+      "date": "3-3-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 7, 40]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 27, 45, 22]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 31, 45, 22]
+        }
+      ]
+    },
+    {
+      "name-movie": "i care a lot",
+      "date": "3-4-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 11]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 25, 44, 22]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 25, 33, 22]
+        }
+      ]
+    },
+    {
+      "name-movie": "i care a lot",
+      "date": "3-5-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 25]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": []
+        }
+      ]
+    },
+    {
+      "name-movie": "i care a lot",
+      "date": "3-6-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40, 33]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12, 11]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 25, 45, 22, 26]
+        }
+      ]
+    },
+    {
+      "name-movie": "i care a lot",
+      "date": "3-7-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40, 42]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12, 14]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 25, 45, 22]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 25]
+        }
+      ]
+    },
+    {
+      "name-movie": "joker",
+      "date": "3-1-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": []
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 25, 45, 22, 30, 32, 44]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": []
+        }
+      ]
+    },
+    {
+      "name-movie": "joker",
+      "date": "3-2-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": []
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": []
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 25, 45, 22]
+        }
+      ]
+    },
+    {
+      "name-movie": "joker",
+      "date": "3-3-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 7, 40]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 27, 45, 22]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 31, 45, 22]
+        }
+      ]
+    },
+    {
+      "name-movie": "joker",
+      "date": "3-4-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 11]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 25, 44, 22]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 25, 33, 22]
+        }
+      ]
+    },
+    {
+      "name-movie": "joker",
+      "date": "3-5-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 25]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": []
+        }
+      ]
+    },
+    {
+      "name-movie": "joker",
+      "date": "3-6-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40, 33]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12, 11]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 25, 45, 22, 26]
+        }
+      ]
+    },
+    {
+      "name-movie": "joker",
+      "date": "3-7-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40, 42]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12, 14]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 25, 45, 22]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 25]
+        }
+      ]
+    },
+    {
+      "name-movie": "allied",
+      "date": "3-1-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": []
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 25, 45, 22, 30, 32, 44]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": []
+        }
+      ]
+    },
+    {
+      "name-movie": "allied",
+      "date": "3-2-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": []
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": []
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 25, 45, 22]
+        }
+      ]
+    },
+    {
+      "name-movie": "allied",
+      "date": "3-3-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 7, 40]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 27, 45, 22]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 31, 45, 22]
+        }
+      ]
+    },
+    {
+      "name-movie": "allied",
+      "date": "3-4-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 11]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 25, 44, 22]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 25, 33, 22]
+        }
+      ]
+    },
+    {
+      "name-movie": "allied",
+      "date": "3-5-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 25]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": []
+        }
+      ]
+    },
+    {
+      "name-movie": "allied",
+      "date": "3-6-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40, 33]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12, 11]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 25, 45, 22, 26]
+        }
+      ]
+    },
+    {
+      "name-movie": "allied",
+      "date": "3-7-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40, 42]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12, 14]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 25, 45, 22]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 25]
+        }
+      ]
+    },
+    {
+      "name-movie": "raya and the last dragon",
+      "date": "3-1-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": []
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 25, 45, 22, 30, 32, 44]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": []
+        }
+      ]
+    },
+    {
+      "name-movie": "raya and the last dragon",
+      "date": "3-2-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": []
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": []
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 25, 45, 22]
+        }
+      ]
+    },
+    {
+      "name-movie": "raya and the last dragon",
+      "date": "3-3-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 7, 40]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 27, 45, 22]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 31, 45, 22]
+        }
+      ]
+    },
+    {
+      "name-movie": "raya and the last dragon",
+      "date": "3-4-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 11]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 25, 44, 22]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 25, 33, 22]
+        }
+      ]
+    },
+    {
+      "name-movie": "raya and the last dragon",
+      "date": "3-5-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 25]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": []
+        }
+      ]
+    },
+    {
+      "name-movie": "raya and the last dragon",
+      "date": "3-6-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40, 33]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12, 11]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 25, 45, 22, 26]
+        }
+      ]
+    },
+    {
+      "name-movie": "raya and the last dragon",
+      "date": "3-7-2021",
+      "times": [
+        {
+          "time": "03:30 pm",
+          "occupied": [12, 8, 40, 42]
+        },
+        {
+          "time": "06:30 pm",
+          "occupied": [20, 4, 12, 14]
+        },
+        {
+          "time": "09:30 pm",
+          "occupied": [33, 25, 45, 22]
+        },
+        {
+          "time": "12:30 am",
+          "occupied": [33, 25]
         }
       ]
     }
